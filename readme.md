@@ -8,7 +8,6 @@ Imports
     import os 
     
 
-
 Ao abrir o codigo ele vai perguntar se quer testar o programa com uma senha no modo string 
 
     (Ex: daniel123, teste, senhas12345) 
@@ -29,4 +28,6 @@ Como funciona?
 
     *1* ao digitar uma palavra(senha) ele ira transformar em MD5 e procurar na wordlist 
     *2* selecione o modelo ja em MD5 para procurar na wordlist
+
+ao encontrar ele notifica dizendo que a senha foi encontrada.
 
